@@ -1,0 +1,78 @@
+
+numeros.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 486
+  size: 500, 483
+  orig: 500, 483
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1, 1
+  size: 500, 483
+  orig: 500, 483
+  offset: 0, 0
+  index: -1
+0
+  rotate: false
+  xy: 503, 490
+  size: 496, 479
+  orig: 496, 479
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 503, 9
+  size: 496, 479
+  orig: 496, 479
+  offset: 0, 0
+  index: -1
+
+numeros2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+3
+  rotate: false
+  xy: 1, 482
+  size: 496, 479
+  orig: 496, 479
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1, 1
+  size: 496, 479
+  orig: 496, 479
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 499, 482
+  size: 496, 479
+  orig: 496, 479
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 499, 1
+  size: 496, 479
+  orig: 496, 479
+  offset: 0, 0
+  index: -1
+
+numeros3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+7
+  rotate: false
+  xy: 1, 1
+  size: 496, 479
+  orig: 496, 479
+  offset: 0, 0
+  index: -1
